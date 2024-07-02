@@ -20,7 +20,7 @@ allprojects {
     }
 }
 
-ndroid {
+android {
     compileSdkVersion = 32
     ndkVersion = "26.1.10909125"
 
